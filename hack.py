@@ -23,7 +23,7 @@ def jalan(z):
         time.sleep(0.01)
 
 
-logo = '\x1b[1;91m* \x1b[1;93mAuthor  \x1b[1;91m: \x1b[1;96mJ4CKOP\x1b[1;97m\n\x1b[1;91m* \x1b[1;93mSupport \x1b[1;91m: \x1b[1;96mSANTUY HACKER TEAM \x1b[1;97m[\x1b[1;96m\x1b[1;97m] \x1b[1;97m/ \x1b[1;91mMR.3XJ4CK0P\n\x1b[1;91m* \x1b[1;93mGitHub  \x1b[1;91m: \x1b[1;92m\x1b[4mhttps://github.com/J4CK0P\x1b[1;91mn[*] BY J4CKOP\n\x1b[1;93m JANGAN LUPA FOLLOW FB SAYA Azis Wirahadi Kusuma'
+logo = '\x1b[1;91m* \x1b[1;93mAuthor  \x1b[1;91m: \x1b[1;96mJ4CKOP\x1b[1;97m\n\x1b[1;91m* \x1b[1;93mSupport \x1b[1;91m: \x1b[1;96mSANTUY HACKER TEAM \x1b[1;97m[\x1b[1;96m\x1b[1;97m] \x1b[1;97m/ \x1b[1;91mMR.3XJ4CK0P\n\x1b[1;91m* \x1b[1;93mGitHub  \x1b[1;91m: \x1b[1;92m\x1b[4mhttps://github.com/J4CK0P\x1b[1;91m   [*] BY J4CKOP\n\x1b[1;93m JANGAN LUPA FOLLOW FB SAYA Azis Wirahadi Kusuma'
 
 def tik():
     titik = [
