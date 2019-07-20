@@ -1,4 +1,4 @@
-#Decompiled by MR.K7C8NG
+#Decompiled by MR.J4CKOP
 import os, sys, time, datetime, random, hashlib, re, threading, json, getpass, urllib, requests, mechanize
 from multiprocessing.pool import ThreadPool
 
@@ -23,13 +23,13 @@ def jalan(z):
         time.sleep(0.01)
 
 
-logo = '* \x1b[1;97mAuthor  \x1b[1;91m: \x1b[1;96mJ4CKOP\x1b[1;97m\n\x1b[1;93m* \x1b[1;97mSupport \x1b[1;91m: \x1b[1;96mSANTUY HACKER TEAM \x1b[1;97m[\x1b[1;96m\x1b[1;97m] \x1b[1;97m/ \x1b[1;96mJ4CK0P\n\x1b[1;93m* \x1b[1;97mGitHub  \x1b[1;91m: \x1b[1;92m\x1b[4mhttps://github.com/J4CK0P\x1b[0m\n[*] BY J4CKOP\n'
+logo = '\x1b[1;91m* \x1b[1;93mAuthor  \x1b[1;91m: \x1b[1;96mJ4CKOP\x1b[1;97m\n\x1b[1;91m* \x1b[1;93mSupport \x1b[1;91m: \x1b[1;96mSANTUY HACKER TEAM \x1b[1;97m[\x1b[1;96m\x1b[1;97m] \x1b[1;97m/ \x1b[1;91mMR.3XJ4CK0P\n\x1b[1;91m* \x1b[1;93mGitHub  \x1b[1;91m: \x1b[1;92m\x1b[4mhttps://github.com/J4CK0P\x1b[1;91mn[*] BY J4CKOP\n\x1b[1;93m JANGAN LUPA FOLLOW FB SAYA Azis Wirahadi Kusuma'
 
 def tik():
     titik = [
      '.   ', '..  ', '... ']
     for o in titik:
-        print '\r\x1b[1;91m[\xe2\x97\x8f] \x1b[1;92mSabar Sayang :* \x1b[1;97m' + o,
+        print '\r\x1b[1;91m[\xe2\x97\x8f] \x1b[1;91mSabar Sayang :* \x1b[1;97m' + o,
         sys.stdout.flush()
         time.sleep(1)
 
@@ -65,7 +65,7 @@ def login():
         os.system('clear')
         print logo
         print 40 * '\x1b[1;97m\xe2\x95\x90'
-        print '\x1b[1;91m[\xe2\x98\x86] \x1b[1;92mLOGIN AKUN FACEBOOK AKUN FB \x1b[1;91m[\xe2\x98\x86]'
+        print '\x1b[1;36m[!] \x1b[1;91mLOGIN AKUN FACEBOOK ANDA  \x1b[1;36m[!]'
         id = raw_input('\x1b[1;91m[+] \x1b[1;36mEMAIL/NOPE \x1b[1;91m:\x1b[1;92m ')
         pwd = getpass.getpass('\x1b[1;91m[+] \x1b[1;36mKATA SANDI \x1b[1;91m:\x1b[1;92m ')
         tik()
