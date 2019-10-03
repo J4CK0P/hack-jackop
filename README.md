@@ -6,4 +6,4 @@ pip2 install mechanize
 pip2 install requests  
 git clone https://github.com/J4CK0P/hack-jackop  
 cd hack-jackop  
-python2 hack.py  
+python2 Brutefb.py  
